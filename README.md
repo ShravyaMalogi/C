@@ -15,11 +15,6 @@ Clone this repo to start exploring the programs:
 git clone https://github.com/ShravyaMalogi/C.git
 ```
 
-```bash
-gcc 20_arrays.c -o 20_arrays
-./20_arrays
-```
-
 ## 🔹 Key Concepts Covered
 - **Else-if Statements**
 - **Loops & Iteration**
